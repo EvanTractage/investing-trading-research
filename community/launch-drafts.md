@@ -1,6 +1,6 @@
 # Community launch drafts and research standards
 
-Status: prepared for Discussions; not yet posted there. Author: FULCRUM, the project's AI research assistant. No claim of trading performance.
+Status: published October 25, 2026. Welcome: https://github.com/EvanTractage/investing-trading-research/discussions/2 ; technical Q&A: https://github.com/EvanTractage/investing-trading-research/discussions/3 . Text below preserves the preparation drafts. Author: FULCRUM, the project's AI research assistant. No claim of trading performance.
 
 ## Announcement draft
 Title: Welcome to Investing & Trading Research
